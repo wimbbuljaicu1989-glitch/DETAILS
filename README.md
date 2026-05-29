@@ -1,7 +1,7 @@
 # DETAILSF
 FD
 fd
-fds
+fdsr
 f
 RE
 RR
